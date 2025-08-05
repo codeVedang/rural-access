@@ -14,9 +14,9 @@
 </p>
 
 ## 🚀 Live Demo
-Frontend (Vercel): https://rural-access-frontend.vercel.app/ (Replace with your actual Vercel link)
+Frontend (Vercel): [LFRONTEND](https://rural-access-vedang.vercel.app/)
 
-Backend API (Render): https://rural-app-backend.onrender.com/
+Backend API (Render): [BACKEND](https://rural-app-backend.onrender.com)
 
 ## ✨ Key Features
 Responsive Homepage UI: Attractive interface with multiple sections.
