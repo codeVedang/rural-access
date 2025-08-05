@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 Live Demo
-Frontend (Vercel): [LFRONTEND](https://rural-access-vedang.vercel.app/)
+Frontend (Vercel): [FRONTEND](https://rural-access-vedang.vercel.app/)
 
 Backend API (Render): [BACKEND](https://rural-app-backend.onrender.com)
 
