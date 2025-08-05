@@ -1,0 +1,18 @@
+# General OS files
+.DS_Store
+Thumbs.db
+
+# Backend specific ignores
+backend/node_modules
+backend/.env
+backend/logs
+backend/*.log
+
+# Frontend specific ignores
+frontend/node_modules
+frontend/build
+frontend/coverage
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
