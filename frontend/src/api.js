@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // The URL of your running backend server
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://rural-app-backend.onrender.com';
 
 const api = axios.create({
   baseURL: API_URL,
