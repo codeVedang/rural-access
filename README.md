@@ -13,12 +13,12 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-🚀 Live Demo
+## 🚀 Live Demo
 Frontend (Vercel): https://rural-access-frontend.vercel.app/ (Replace with your actual Vercel link)
 
 Backend API (Render): https://rural-app-backend.onrender.com/
 
-✨ Key Features
+## ✨ Key Features
 Responsive Homepage UI: Attractive interface with multiple sections.
 
 Secure User Authentication: Full signup/login flow using JWT.
@@ -39,7 +39,7 @@ Functional Contact Form: Stores user messages directly in the database.
 
 Cloud Deployment: Separate, live deployments for the frontend, backend, and database.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Component
 
 Technology
@@ -64,7 +64,8 @@ Deployment
 
 Vercel (Frontend), Render (Backend), MongoDB Atlas (DB)
 
-⚙️ Local Development Setup
+## ⚙️ Local Development Setup
+``` bash 
 To run this project on your local machine, follow these steps.
 
 Prerequisites
@@ -192,6 +193,7 @@ POST
 Create a new booking from the cart.
 
 Private
+```
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
